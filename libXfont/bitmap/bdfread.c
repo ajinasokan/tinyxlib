@@ -60,6 +60,7 @@ from The Open Group.
 /* use bitmap structure */
 #include "../include/bitmap.h"
 #include "bdfint.h"
+#include <stdint.h>
 
 #define INDICES 256
 #define MAXENCODING 0xFFFF
